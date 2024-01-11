@@ -12,6 +12,11 @@ ShowTime is your go-to app for discovering top-rated, upcoming, and trending mov
 
 ## Screenshots
 
+<div>
+<img src="https://github.com/amitsing8576/ShowTime/assets/134639939/d569f87f-c674-4475-8370-abf27135e875" alt="Homepage" width=400>
+<img src="https://github.com/amitsing8576/ShowTime/assets/134639939/61c33d4c-397b-4037-b29f-bf29ccb27253" alt="MoviePage" width=400>
+</div>
+
 ### Getting Started
 
 ## Prerequisites
